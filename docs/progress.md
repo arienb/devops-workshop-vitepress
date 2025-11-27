@@ -19,11 +19,11 @@
 
 ## Persoonlijke Workshop Informatie
 
-**Deelnemer Naam:** `[Jouw Volledige Naam]`  
-**Workshop Datum:** `[Voeg vandaag's datum toe]`  
-**Doel:** `[Wat wil je bereiken? bijv., "Mijn eerste CI/CD pipeline bouwen"]`  
-**GitHub Gebruikersnaam:** `[jouw-github-gebruikersnaam]`  
-**Verwachte Site URL:** `https://[jouw-gebruikersnaam].github.io/devops-workshop-vitepress/`
+**Deelnemer Naam:** `[Ariën Bisschops]`  
+**Workshop Datum:** `[27/11/2025]`  
+**Doel:** `["Mijn eerste CI/CD pipeline bouwen"]`  
+**GitHub Gebruikersnaam:** `[arienb]`  
+**Verwachte Site URL:** `https://[arienb].github.io/devops-workshop-vitepress/`
 
 ---
 
@@ -46,10 +46,10 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] De workshop repository geforkt naar mijn GitHub account
-- [ ] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
-- [ ] Mijn eerste feature branch aangemaakt (`feat/personaliseer-tracker`)
-- [ ] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
+- [x] De workshop repository geforkt naar mijn GitHub account
+- [x] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
+- [x] Mijn eerste feature branch aangemaakt (`feat/personaliseer-tracker`)
+- [x] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
 - [ ] Mijn eerste commit gemaakt met een goede commit message
 - [ ] Mijn branch gepusht naar GitHub
 - [ ] Mijn eerste Pull Request aangemaakt en gemerged
